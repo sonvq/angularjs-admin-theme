@@ -1,0 +1,5 @@
+In this file I will explain more detail about change log Blankon version. Enjoy cheers! :D
+
+v1.1.7
+==================================================================================
++ FIX: Decompression issues zip file
